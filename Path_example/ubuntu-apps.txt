@@ -1,2 +1,2 @@
 firefox
-code
+code "/PATH/TO/PROJECT/FOLDER"
